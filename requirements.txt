@@ -1,0 +1,30 @@
+# Data manipulation
+pandas
+numpy
+
+# Market data APIs
+yfinance
+requests
+
+# Visualization
+matplotlib
+plotly
+
+# Technical analysis
+ta
+
+# Backtesting support
+backtesting
+
+# Machine learning (future models)
+scikit-learn
+
+# Jupyter notebooks
+jupyter
+ipykernel
+
+# Configuration
+python-dotenv
+
+# Testing
+pytest
